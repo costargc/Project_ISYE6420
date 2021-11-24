@@ -1,4 +1,4 @@
-#  [Stochastic price model simulation with CRR parameterization](https://costargc.github.io/Project_ISYE6420/Project_ISYE6420.html)
+#  [Stochastic price model simulation with CRR parameterization](https://costargc.github.io/Project_ISYE6420/)
 
 #### Rodrigo  Da  Costa <br> Georgia Institute of Technology, Atlanta, GA 30332
 
